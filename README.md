@@ -11,7 +11,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/georgian)](https://packagist.org/packages/flarum-lang/georgian/stats) 
 [![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/georgian)](https://packagist.org/packages/flarum-lang/georgian/stats) 
 
-This language pack contains Georgian translations for Flarum (compatible with `1.1.0` or newer) and popular extensions. Full list of supported extensions is available below.
+This language pack contains Georgian translations for Flarum (compatible with `1.5.0` or newer) and popular extensions. Full list of supported extensions is available below.
 
 
 ## Installation
