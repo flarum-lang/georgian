@@ -7,7 +7,6 @@ clarkwinkelmann-colorful-borders:
     permissions:
       editAnyPost: 'შეცვალეთ ნებისმიერი პოსტის სტილი'
       editOwnPost: 'საკუთარი პოსტის სტილის რედაქტირება'
-      heading: 'ლამაზი საზღვრები'
     settings:
       colors:
         all: 'ნებისმიერი ფერი'
@@ -20,7 +19,6 @@ clarkwinkelmann-colorful-borders:
       enableTextColor: 'დააკონფიგურიროთ ტექსტის ფერი'
       max: მაქსიმალური
       min: მინიმალური
-      title: 'ფერადი საზღვრების პარამეტრები'
   forum:
     apply: დაყენებულია
     backgroundColor: 'უკანაფონის ფერი'

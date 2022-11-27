@@ -9,7 +9,6 @@ askvortsov-saml:
       idp_metadata_url: 'იდენტურობის მომწოდებლის მეტამონაცემების URL (ალტერნატივა XML– ს)'
       nameid_format: 'NameID ფორმატი'
       only_option: 'გამოვიყენოთ SAML2 SSO მხოლოდ შესვლის ვარიანტი?'
-      sync_attributes: 'გსურთ სინქრონიზაციის ატრიბუტები (ავატარი, ჯგუფები, ბიო და პროფილი)? მოითხოვს askvortsov/auth- სინქრონიზაციის გაფართოებას.'
       want_assertions_signed: 'გსურთ მტკიცებების ხელმოწერა?'
       want_messages_signed: 'გსურთ ხელმოწერილი შეტყობინებები?'
     options:
