@@ -64,6 +64,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/fof-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-moderator-warnings/ka/) |
 
 <!-- fof-extensions-list-stop -->
 
@@ -78,7 +79,6 @@ php flarum cache:clear
 | [`askvortsov/flarum-categories`](https://github.com/askvortsov1/flarum-categories) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-categories/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-categories/ka/) |
 | [`askvortsov/flarum-discussion-templates`](https://github.com/askvortsov1/flarum-discussion-templates) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-discussion-templates/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-discussion-templates/ka/) |
 | [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-help-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-help-tags/ka/) |
-| [`askvortsov/flarum-moderator-warnings`](https://github.com/askvortsov1/flarum-moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-moderator-warnings/ka/) |
 | [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-pwa/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-pwa/ka/) |
 | [`askvortsov/flarum-saml`](https://github.com/askvortsov1/flarum-saml) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-saml/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-saml/ka/) |
 | [`clarkwinkelmann/catch-the-fish`](https://github.com/clarkwinkelmann/catch-the-fish) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/clarkwinkelmann-catch-the-fish/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-catch-the-fish/ka/) |
