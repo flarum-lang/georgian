@@ -44,8 +44,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/ka/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/ka/) |
+| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/ka/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/core/ka/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum2/ka/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/validation/ka/) |
 
 
 ## Translation status for official extensions
@@ -64,8 +64,8 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/fof-discussion-templates/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-discussion-templates/ka/) |
-| [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/fof-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-moderator-warnings/ka/) |
+| [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/ka/fof-discussion-templates/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-discussion-templates/ka/) |
+| [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/ka/fof-moderator-warnings/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-moderator-warnings/ka/) |
 
 <!-- fof-extensions-list-stop -->
 
@@ -76,16 +76,6 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/ka/) |
-| [`askvortsov/flarum-categories`](https://github.com/askvortsov1/flarum-categories) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-categories/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-categories/ka/) |
-| [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-help-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-help-tags/ka/) |
-| [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-pwa/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-pwa/ka/) |
-| [`askvortsov/flarum-saml`](https://github.com/askvortsov1/flarum-saml) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/askvortsov-saml/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-saml/ka/) |
-| [`clarkwinkelmann/catch-the-fish`](https://github.com/clarkwinkelmann/catch-the-fish) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/clarkwinkelmann-catch-the-fish/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-catch-the-fish/ka/) |
-| [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/clarkwinkelmann-author-change/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-author-change/ka/) |
-| [`clarkwinkelmann/flarum-ext-carving-contest`](https://github.com/clarkwinkelmann/flarum-ext-carving-contest) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/clarkwinkelmann-carving-contest/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-carving-contest/ka/) |
-| [`clarkwinkelmann/flarum-ext-colorful-borders`](https://github.com/clarkwinkelmann/flarum-ext-colorful-borders) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/clarkwinkelmann-colorful-borders/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/clarkwinkelmann-colorful-borders/ka/) |
-| [`ianm/syndication`](https://github.com/imorland/syndication) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ka/ianm-syndication/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/ianm-syndication/ka/) |
 
 <!-- various-extensions-list-stop -->
 
