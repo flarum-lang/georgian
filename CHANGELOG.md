@@ -1,0 +1,19 @@
+CHANGELOG
+=========
+
+
+2.0.0 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+
+
