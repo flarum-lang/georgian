@@ -15,5 +15,6 @@ CHANGELOG
 
 * [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
 * [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`ianm/syndication`](https://github.com/imorland/syndication)
 
 
