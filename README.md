@@ -76,6 +76,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`ianm/syndication`](https://github.com/imorland/syndication) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/ka/ianm-syndication/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-syndication/ka/) |
 
 <!-- various-extensions-list-stop -->
 
