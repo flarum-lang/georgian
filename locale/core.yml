@@ -276,8 +276,8 @@ core:
     user_controls:
       button: კონტროლი
       delete_confirmation: 'დარწმუნებული ხართ, რომ გსურთ ამ მომხმარებლის წაშლა? მომხმარებლის შეტყობინებები არ წაიშლება.'
-      delete_error_message: 'მომხმარებლის <i>{username} ({email)}</ i> წაშლა ვერ მოხერხდა'
-      delete_success_message: 'მომხმარებელი <i>{username} ({email})</ i> წაიშალა'
+      delete_error_message: 'მომხმარებლის <i>{username} ({email})</i> წაშლა ვერ მოხერხდა'
+      delete_success_message: 'მომხმარებელი <i>{username} ({email})</i> წაიშალა'
     user_email_confirmation:
       resend_button: 'ხელახლა გაგზავნეთ დამადასტურებელი ელ.ფოსტა'
       sent_message: გაგზავნილი
