@@ -1,24 +1,24 @@
 {
 	"name": "flarum-lang/georgian",
+	"description": "Georgian Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Georgian language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/georgian",
 	"keywords": [
-		"locale",
-		"flarum",
-		"ka-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/georgian",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/georgian/issues",
+		"forum": "https://discuss.flarum.org/d/40193",
 		"source": "https://github.com/flarum-lang/georgian"
 	},
 	"require": {
 		"flarum/core": "^1.5"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Georgian",
 			"category": "language",
@@ -30,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "ka",
-			"title": "Georgian"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "ქართული"
 		}
 	}
 }
